@@ -14,10 +14,6 @@ function App() {
             <Nav className="me-auto mb-2 mb-lg-0">
               <Nav.Link href="#" active>Inicio</Nav.Link>
               <Nav.Link href="#">¿Por qué jugar GTA V Roleplay?</Nav.Link>
-              <NavDropdown title="Tipos de Servers en GTA V FIVEM" id="server-dropdown">
-                <NavDropdown.Item href="#">Server 1</NavDropdown.Item>
-                <NavDropdown.Item href="#">Server 2</NavDropdown.Item>
-              </NavDropdown>
             </Nav>
           </Navbar.Collapse>
         </Container>
